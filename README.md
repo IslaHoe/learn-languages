@@ -1,2 +1,2 @@
-# learn-languages
-A git repo to test myself 
+# Learn and test new languages 
+1. Spanish
